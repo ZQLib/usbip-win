@@ -115,6 +115,7 @@
     <UdeDriver>true</UdeDriver>
     <UDE_VERSION_MAJOR>1</UDE_VERSION_MAJOR>
     <UDE_VERSION_MINOR>0</UDE_VERSION_MINOR>
+    <SpectreMitigation>false</SpectreMitigation>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <TargetVersion>Windows10</TargetVersion>
